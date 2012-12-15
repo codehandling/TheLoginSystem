@@ -1,0 +1,1 @@
+<%if(null != session.getAttribute("gyUser")){%><jsp:doBody/><%}%>
